@@ -20,12 +20,40 @@
 
 ### 👨‍💻 About Me
 
-- 🎮 I'm an indie game developer building games with **Unity Engine**
-- 🌱 Currently improving my skills in **Game Design, C#, and Mobile Development**
-- 🕹️ I love creating both **2D and 3D games** from scratch
-- 📍 Based in **India**
-- 📫 Reach me at: **im.chandanbaskey@gmail.com**
+### 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td>🎮</td>
+    <td><strong>Role</strong></td>
+    <td>Indie <strong>Game Developer</strong></td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td><strong>Engine</strong></td>
+    <td><strong>Unity</strong> + C#</td>
+  </tr>
+  <tr>
+    <td>🕹️</td>
+    <td><strong>Games Built</strong></td>
+    <td><strong>6 Games</strong> — 2D & 3D</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Learning</strong></td>
+    <td>Game Design, Mobile Dev, C#</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td><strong>Location</strong></td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><strong>Contact</strong></td>
+    <td>im.chandanbaskey@gmail.com</td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
