@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandan-Baskey&theme=tokyonight&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Unity+Game+Developer;2D+%26+3D+Game+Creator;C%23+Programmer;Indie+Dev+from+India" alt="Typing SVG" />
 </p>
 
 ---
