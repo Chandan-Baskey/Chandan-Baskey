@@ -1,8 +1,19 @@
-<h1 align="center">Hi 👋, I'm Chandan Baskey</h1>
-<h3 align="center">🎮 Unity Game Developer | C# | 2D & 3D Games | Mobile & PC</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=130&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Chandan%20Baskey&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🎮%20Unity%20Game%20Developer%20%7C%20C%23%20%7C%202D%20%26%203D%20Games%20%7C%20Mobile%20%26%20PC&descAlignY=68&descSize=15&descColor=58a6ff" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Unity+Game+Developer;2D+%26+3D+Game+Creator;C%23+Programmer;Indie+Dev+from+India" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=unity&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-f05032?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" />
 </p>
 
 ---
@@ -47,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandan-Baskey&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Baskey&theme=tokyonight" />
 </p>
 
 ---
