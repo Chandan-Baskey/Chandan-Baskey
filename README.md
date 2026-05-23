@@ -54,15 +54,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Unity+Game+Developer;2D+%26+3D+Game+Creator;C%23+Programmer;Indie+Dev+from+India" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chandan-Baskey&theme=tokyonight&row=1&column=6" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandan-Baskey&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Baskey&theme=tokyonight" />
 </p>
 
 ---
