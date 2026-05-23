@@ -19,9 +19,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-### 👨‍💻 About Me
-
 <table>
   <tr>
     <td>🎮</td>
